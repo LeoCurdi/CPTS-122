@@ -1,0 +1,7 @@
+﻿  main.c
+G:\My Drive\WSU\2023 - Spring\1. CS 122\pa1 test\boilerplate\main.c(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+G:\My Drive\WSU\2023 - Spring\1. CS 122\pa1 test\boilerplate\main.c(15,9): message : consider using '%zd' in the format string
+G:\My Drive\WSU\2023 - Spring\1. CS 122\pa1 test\boilerplate\main.c(22,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+G:\My Drive\WSU\2023 - Spring\1. CS 122\pa1 test\boilerplate\main.c(22,9): message : consider using '%zd' in the format string
+G:\My Drive\WSU\2023 - Spring\1. CS 122\pa1 test\boilerplate\main.c(23,40): warning C4047: '==': 'int' differs in levels of indirection from 'int (__cdecl *)(FILE *)'
+  boilerplate.vcxproj -> G:\My Drive\WSU\2023 - Spring\1. CS 122\pa1 test\x64\Debug\rename.exe
